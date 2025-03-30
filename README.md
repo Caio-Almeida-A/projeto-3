@@ -28,7 +28,8 @@ Esse projeto utiliza [`next/font`](https://nextjs.org/docs/app/building-your-app
 <details>
 <summary>Entrega 1</summary>
 <ul>
-  #### Ciência da Computação:
+#### Ciência da Computação:
+  
   -[Screencast](https://drive.google.com/drive/u/1/folders/1Gmt05ofmIeEPzacXHGIz8K4S-o6mjDy5)
 
   ### Design: 
