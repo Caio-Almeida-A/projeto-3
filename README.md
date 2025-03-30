@@ -2,6 +2,8 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## Descrição
 
+## Funcionalidades
+
 ## Como utilizar
 
 Primeiro, inicialize o terminal e execute:
@@ -22,6 +24,18 @@ Você pode começar editando a pagina modificando pelo `app/page.tsx`. A pagina 
 
 Esse projeto utiliza [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) para automatizar, otimizar e carregar automaticamente [Geist](https://vercel.com/font), uma nova fonte para o Vercel.
 
+## Entregas
+<details>
+<summary>Entrega 1</summary>
+<ul>
+  #### Ciência da Computação:
+  -[Screencast](https://drive.google.com/drive/u/1/folders/1Gmt05ofmIeEPzacXHGIz8K4S-o6mjDy5)
+
+  ### Design: 
+  -[Protótipo de baixa]()
+</ul>
+</details>
+
 ## Saiba mais (será possivelmente removido)
 
 Para saber mais sobre Next.js, olhe as documentações abaixo:
@@ -36,3 +50,5 @@ Você pode checar [the Next.js GitHub repository](https://github.com/vercel/next
 A maneira mais facil de fazer deploy com Next.js app é usando [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) do criador do Next.js.
 
 Leia também [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) para mais detalhes.
+
+## Contribuidores
