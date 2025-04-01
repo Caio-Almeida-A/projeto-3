@@ -4,6 +4,12 @@ Esse é um projeto [Next.js](https://nextjs.org) bootstrapped com [`create-next-
 
 ## Funcionalidades
 
+## Tecnologias/Linguagens usadas:
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
+
 ## Como utilizar
 
 Primeiro, inicialize o terminal e execute:
