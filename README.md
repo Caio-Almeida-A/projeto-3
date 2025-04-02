@@ -3,10 +3,11 @@ Esse é um projeto [Next.js](https://nextjs.org) bootstrapped com [`create-next-
 ## Descrição
 
 ## Funcionalidades de foco
--Introduzir elementos de gamificação
--Desenvolver uma área específica dentro do site da BRASFI para abrigar webinars, workshops e cursos on-line com integração de ferramentas de videoconferência
--Implementar um sistema automático de emissão de certificados ao final de cursos e eventos realizados
--Incluir um espaço virtual para discussões onde estudantes, especialistas e parceiros possam trocar ideias e experiências
+
+ - Introduzir elementos de gamificação
+ - Desenvolver uma área específica dentro do site da BRASFI para abrigar webinars, workshops e cursos on-line com integração de ferramentas de videoconferência
+ - Implementar um sistema automático de emissão de certificados ao final de cursos e eventos realizados
+ - Incluir um espaço virtual para discussões onde estudantes, especialistas e parceiros possam trocar ideias e experiências
 
 ## Futuros aprimoramentos
 
