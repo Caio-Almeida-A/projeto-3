@@ -57,7 +57,7 @@ Esse projeto utiliza [`next/font`](https://nextjs.org/docs/app/building-your-app
 </ul>
 </details>
 
-## Saiba mais (será possivelmente removido)
+## Saiba mais ( Framework )
 
 Para saber mais sobre Next.js, olhe as documentações abaixo:
 
