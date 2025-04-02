@@ -2,7 +2,12 @@ Esse é um projeto [Next.js](https://nextjs.org) bootstrapped com [`create-next-
 
 ## Descrição
 
-## Funcionalidades
+## Funcionalidades de foco
+
+
+## Futuros aprimoramentos
+
+
 
 ## Tecnologias/Linguagens usadas:
 
@@ -58,5 +63,9 @@ Você pode checar [the Next.js GitHub repository](https://github.com/vercel/next
 A maneira mais facil de fazer deploy com Next.js app é usando [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) do criador do Next.js.
 
 Leia também [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) para mais detalhes.
+
+## Google Site
+
+
 
 ## Contribuidores
