@@ -7,9 +7,17 @@ Esse é um projeto [Next.js](https://nextjs.org) bootstrapped com [`create-next-
  - Desenvolver uma área específica dentro do site da BRASFI para abrigar webinars, workshops e cursos on-line com integração de ferramentas de videoconferência
  - Implementar um sistema automático de emissão de certificados ao final de cursos e eventos realizados
  - Incluir um espaço virtual para discussões onde estudantes, especialistas e parceiros possam trocar ideias e experiências
-  - Adicionar postagem
-  - Excluir postagem 
- - Introduzir elementos de gamificação
+
+## Histórias de usuários
+
+ - Como administrador desejo criar e publicar um curso
+ - Como usuário desejo acessar o conteúdo do curso disponível
+ - Como usuário desejo encontrar o curso que desejo em uma aba de pesquisa
+ - Desejo emitir certificado e ver-lo salvo em uma seção de certificados
+ - Como usuário desejo adicionar postagem
+ - Editar essa postagem
+ - E excluir a postagem criada
+ - Como administrador desejo poder remover uma postagem
 
 ## Futuros aprimoramentos
 
