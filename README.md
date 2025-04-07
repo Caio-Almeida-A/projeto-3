@@ -2,22 +2,22 @@ Esse é um projeto [Next.js](https://nextjs.org) bootstrapped com [`create-next-
 
 ## Descrição
 
-## Funcionalidades de foco
+## 🚀 Funcionalidades de foco
 
- - Desenvolver uma área específica dentro do site da BRASFI para abrigar webinars, workshops e cursos on-line com integração de ferramentas de videoconferência
- - Implementar um sistema automático de emissão de certificados ao final de cursos e eventos realizados
- - Incluir um espaço virtual para discussões onde estudantes, especialistas e parceiros possam trocar ideias e experiências
+ - Criar uma área exclusiva no site da **BRASFI** para hospedar **webinars, workshops e cursos online**, com integração de ferramentas de videoconferência.
+ - Implementar um sistema automático de **emissão de certificados** ao final de cursos e eventos realizados
+ - Disponibilizar **um espaço virtual de discussões**, onde estudantes, especialistas e parceiros possam trocar ideias e experiências.
 
-## Histórias de usuários
+## 👤  Histórias de usuários
 
- - Como administrador desejo criar e publicar um curso
- - Como usuário desejo acessar o conteúdo do curso disponível
- - Como usuário desejo encontrar o curso que desejo em uma aba de pesquisa
+ - Como **administrador** desejo criar e publicar um curso
+ - Como **usuário** desejo acessar o conteúdo do curso disponível
+ - Como **usuário** desejo encontrar o curso que desejo em uma aba de pesquisa
  - Desejo emitir certificado e ver-lo salvo em uma seção de certificados
- - Como usuário desejo adicionar postagem
+ - Como **usuário** desejo adicionar postagem
  - Editar essa postagem
  - E excluir a postagem criada
- - Como administrador desejo poder remover uma postagem
+ - Como **administrador** desejo poder remover uma postagem
 
 ## Futuros aprimoramentos
 
