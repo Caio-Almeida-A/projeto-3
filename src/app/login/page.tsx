@@ -75,7 +75,7 @@ export default function LoginPage() {
 
                 <div className="mt-2 rounded-md bg-gray-100/80 p-4 text-center text-sm">
                     <span className="text-gray-600">Ainda não tem conta?</span>{" "}
-                    <Link href="/register" className="text-teal-500 hover:underline">
+                    <Link href="/cadastro" className="text-teal-500 hover:underline">
                         Cadastre-se
                     </Link>
                 </div>
