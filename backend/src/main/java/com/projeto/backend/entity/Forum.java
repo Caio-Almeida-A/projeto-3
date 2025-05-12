@@ -60,4 +60,8 @@ public class Forum {
     public void setPostagens(List<Postagem> postagens) {
         this.postagens = postagens;
     }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> branch 'main' of https://github.com/Caio-Almeida-A/projeto-3.git

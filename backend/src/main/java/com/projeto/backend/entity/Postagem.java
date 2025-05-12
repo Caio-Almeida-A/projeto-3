@@ -73,4 +73,8 @@ public class Postagem {
     public void setForum(Forum forum) {
         this.forum = forum;
     }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> branch 'main' of https://github.com/Caio-Almeida-A/projeto-3.git

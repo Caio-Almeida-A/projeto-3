@@ -69,4 +69,8 @@ public class Curso {
     public void setCertificados(List<Certificado> certificados) {
         this.certificados = certificados;
     }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> branch 'main' of https://github.com/Caio-Almeida-A/projeto-3.git
